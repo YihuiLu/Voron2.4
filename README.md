@@ -26,10 +26,15 @@
 ![img_1.png](img_1.png)
 
 ### **方案中使用到的接线图：**
+对于MKS Skipr主板
 #### **腾讯文档在线查看**：[Voron2.4接线图](https://docs.qq.com/pdf/DYkVqTnBob2xzUEhR? "我是小一灰")
 #### **GoogleDrive在线查看**：[Voron2.4接线图](https://drive.google.com/file/d/12_wtBbF1vBpWM0nNy4lV2uWEw3sMo3vR/view?usp=drive_link "我是小一灰")
-对于MKS Skipr主板
 ![img_3.png](img_3.png)
+
+对于必趣Manta M8P主板
+#### **腾讯文档在线查看**：[【腾讯文档】2.4-Manta接线图](https://docs.qq.com/pdf/DYml6c1BKZG5rTVhS? "我是小一灰")
+#### **GoogleDrive在线查看**：[Voron三叉戟接线图-M8P](https://drive.google.com/file/d/1uaDMFxypquY46-UOZf7tZHt3VbaO-cjZ/view?usp=sharing "我是小一灰")
+![img_4.png](img_4.png)
 
 ### 注意事项：
 
